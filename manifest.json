@@ -14,17 +14,17 @@
     "short_name": "SuperBud",
     "icons": [
         {
-            "src": "/img/icon-192x192.png",
+            "src": "/bud-pwa/img/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/img/icon-256x256.png",
+            "src": "/bud-pwa/img/icon-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/img/icon-384x384.png",
+            "src": "/bud-pwa/img/icon-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
