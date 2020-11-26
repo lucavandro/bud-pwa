@@ -6,6 +6,8 @@ body{
     background: #e94560;
     font-family: 'Nerko One', cursive;
     font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
 }
 
 main{
