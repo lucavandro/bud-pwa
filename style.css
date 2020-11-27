@@ -21,6 +21,8 @@ img{
 }
 h1{
     margin-top:0;
+    color: white;
+    text-shadow: 6px 5px rgba(0,0,0,0.5);
 }
 marquee{
     margin-top: 30px;
@@ -50,4 +52,19 @@ marquee{
 
 #wrapper{
     position: relative;
+}
+
+button{
+    background: white;
+    outline: none !important;
+    font-family: 'Nerko One';
+    font-size: 2rem;
+    padding: 0.9rem 2rem;
+    border: 8px solid black;
+    border-radius: 40px;
+    box-shadow: 2px 3px 7px 3px rgba(0,0,0,0.5);
+}
+
+button.hide{
+    display: none;
 }
