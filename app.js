@@ -13,9 +13,9 @@ function AH(){
     
     btnAH.className="hide"
     btn1234.className=""
-    
-    bababa.play()
     img.src="img/ah.gif"
+    bababa.play()
+    
     setTimeout(()=>{
         let ah = document.querySelector("#banner")
         ah.className="show animate animate__bounceIn";
@@ -34,6 +34,7 @@ e1234.addEventListener('ended', ()=>{
 
  coro.addEventListener('ended', ()=>{
      marquee.stop()
+     img.src = "img/stop.gif"
  })
 function start(){
     
