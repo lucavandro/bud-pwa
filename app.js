@@ -27,8 +27,9 @@ function AH(){
 }
 
 e1234.addEventListener('ended', ()=>{
-    coro.play()
+    
     img.src = "img/bobobo.gif"
+    coro.play()
     marquee.start()
  })
 
